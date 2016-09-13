@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GmailSimple</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <!-- Mail -->
+    <string name="remitente">Javier Yela</string>
+    <string name="asunto">Urgente Meta4</string>
+    <string name="mensaje">Hola, no has hecho lo que te pedi</string>
+    <string name="fecha">2:45 pm</string>
+
+</resources>
